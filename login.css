@@ -1,0 +1,10 @@
+body{
+    background-image:url('Background.jpg');
+}
+div{
+    background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        width:500px;
+}
